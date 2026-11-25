@@ -4,16 +4,16 @@
 
 My work focuses on the design and development of machine learning systems for financial market analysis, with an emphasis on temporal modeling, predictive analytics, and quantitative signal generation.
 
-My technical interests include the application of recurrent neural networks to financial time-series data, multi-model learning architectures, and the engineering of data-driven analytical pipelines.
+My technical interests include recurrent neural networks for financial time-series modeling, multi-model learning architectures, and the engineering of data-driven analytical pipelines.
 
 ## Technical Focus
 
-- **Deep Learning & Sequential Modeling:** GRU-based recurrent neural networks, temporal representation learning, and sequential data modeling.
-- **Ensemble Learning:** Multi-model architectures, model integration, and predictive signal aggregation.
+- **Deep Learning & Sequential Modeling:** GRU-based recurrent neural networks, sequential data processing, and temporal modeling using PyTorch.
+- **Ensemble Learning:** Multi-model architectures, predictive model integration, and ensemble-based signal aggregation.
 - **Financial Time-Series Analysis:** Temporal patterns, market dynamics, and predictive modeling under non-stationary conditions.
-- **Quantitative Feature Engineering:** Structured feature construction and financial data transformation.
-- **Model Validation:** Walk-forward evaluation, temporal validation, and leakage-aware experimental design.
-- **Data Engineering:** Incremental processing pipelines, data integrity, and feature-generation workflows.
+- **Quantitative Feature Engineering:** Financial feature construction, feature selection, and statistical data transformation.
+- **Model Validation & Evaluation:** Walk-forward evaluation, temporal validation, and performance assessment using classification and regression metrics.
+- **Data Engineering:** Incremental data processing, data transformation, and feature-generation pipelines.
 
 ## Selected Project
 
@@ -21,28 +21,33 @@ My technical interests include the application of recurrent neural networks to f
 
 A proprietary financial intelligence system developed for quantitative market analysis and predictive signal generation.
 
-The system integrates multiple analytical and machine learning components, including:
+The system combines sequential deep learning, gradient-boosted decision tree models, and ensemble-based predictive components within a modular analytical architecture.
 
-- Incremental financial data processing and feature engineering
-- GRU-based sequential modeling
-- Tree-based learning models and ensemble architectures
+Selected architectural components include:
+
+- Financial data processing and feature engineering
+- GRU-based sequential modeling using PyTorch
+- Gradient-boosted learning models
 - Meta-learning and predictive model integration
-- Temporal model evaluation and walk-forward validation
+- Temporal validation and walk-forward evaluation
+- Classification and regression-based predictive components
 - Quantitative signal-generation workflows
 
-The public materials provide a high-level architectural overview and selected technical references. Proprietary algorithms, implementation details, and decision logic are intentionally excluded.
+Public materials focus on architectural concepts and selected technical references. Proprietary algorithms, implementation details, and decision logic are intentionally excluded.
 
-## Technical Domains
+## Technical Stack
 
-**Programming & Data:** Python, Pandas, NumPy, SQL
+**Programming & Data Processing:** Python, NumPy, Pandas
 
-**Machine Learning:** Deep Learning, Recurrent Neural Networks, Ensemble Learning, Time-Series Modeling
+**Deep Learning:** PyTorch, Torch Neural Networks, GRU
 
-**Modeling Frameworks:** PyTorch / TensorFlow, Scikit-learn, CatBoost, LightGBM, XGBoost
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, CatBoost
+
+**Statistical & Model Evaluation:** Mutual Information, Standard Scaling, ROC-AUC, Mean Absolute Error
 
 ## Professional Interests
 
-Financial Machine Learning · Quantitative Research · Time-Series Modeling · Predictive Analytics · AI Systems Architecture
+Financial Machine Learning · Quantitative Research · Deep Learning for Time Series · Ensemble Learning · Predictive Analytics · AI Systems Architecture
 
 ## Contact
 
